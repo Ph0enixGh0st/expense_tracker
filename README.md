@@ -18,9 +18,9 @@ pip install -r requirements.txt
 # Before use please fill in the following env variables:
 
 `TELEGRAM_API_TOKEN` — Telegram API token
-`TELEGRAM_PROXY_URL`
-`TELEGRAM_PROXY_LOGIN`
-`TELEGRAM_PROXY_PASSWORD`
+`TELEGRAM_PROXY_URL` - Proxy URL
+`TELEGRAM_PROXY_LOGIN` - Proxy Login
+`TELEGRAM_PROXY_PASSWORD` - Proxy Password
 `TELEGRAM_ACCESS_ID` — Telegram ID
 
 
