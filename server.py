@@ -28,7 +28,7 @@ dp.middleware.setup(AccessMiddleware(TG_ACCESS_ID))
 async def show_welcome_screen(message: types.Message):
     await message.answer(
         "Expense tracker bot\n\n"
-        "Add expense: 250 taxi\n"
+        "Add expense: 20 taxi\n"
         "Today spending stats: /today\n"
         "Current month spent: /month\n"
         "Previous expenses: /expenses\n"
